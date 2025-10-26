@@ -206,8 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Ignore Jupyter notebook checkpoints (redundant safeguard)
-.ipynb_checkpoints/
+# Ignore Jupyter notebook auto backups (if any extension)
+*.ipynb_checkpoints/*
+*.autosave.ipynb
 
 # Ignore system junk
 .DS_Store
