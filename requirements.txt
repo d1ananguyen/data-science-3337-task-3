@@ -1,0 +1,18 @@
+# Core scientific libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine learning (Activity 2)
+scikit-learn
+
+# Astronomy and solar data (Activity 3)
+astropy
+sunpy
+
+# Optional but helpful for visualization
+plotly
+
+# Jupyter Notebook support
+jupyter
