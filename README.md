@@ -27,7 +27,8 @@ pip install -r requirements.txt
 
 ## ▶️ Running the Code
 
-Each activity (1–6) corresponds to a self-contained Jupyter notebook.  
-Run each notebook **from top to bottom** in order to reproduce results without errors.
+Each activity (1–5) corresponds to a self-contained Jupyter notebook.  
+Run each notebook **from top to bottom** in order to reproduce results without errors.  
+All **visuals, results, and generated images** are stored in the **respective folders** for each activity.
 
 ---
