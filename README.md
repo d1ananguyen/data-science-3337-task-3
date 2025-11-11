@@ -17,12 +17,17 @@ cd solar-flare-analysis
 # (Optional) Create and activate a virtual environment
 python -m venv .venv
 source .venv/bin/activate  # Mac/Linux
-.venv\Scripts\activate     # Windows
+.venv\Scripts\activate   # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+---
 
 ## ▶️ Running the Code
 
 Each activity (1–6) corresponds to a self-contained Jupyter notebook.  
 Run each notebook **from top to bottom** in order to reproduce results without errors.
+
+---
